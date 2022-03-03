@@ -44,7 +44,7 @@ Write a script that sets the permission to the file hello as follows:
 `-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello`
 
 #### File 10-mirror_permissions
-- Write a script that sets the mode of the file `hello` the same as `olleh’s` mode.
+Write a script that sets the mode of the file `hello` the same as `olleh’s` mode.
 - The file `hello` will be in the working directory
 - The file `olleh` will be in the working directory
 
@@ -55,9 +55,15 @@ Write a script that sets the permission to the file hello as follows:
 - Create a script that creates a directory called `my_dir` with permissions 751 in the working directory.
 
 #### File 13-change_group
-- Write a script that changes the group owner to school for the file hello
+Write a script that changes the group owner to school for the file hello
 
 - The file `hello` will be in the working directory
 
 #### File 100-change_owner_and_group
 - Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+
+#### File 101-symbolic_link_permissions
+Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+
+- The file `_hello` is in the working directory
+- The file `_hello` is a symbolic link
