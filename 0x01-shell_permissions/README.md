@@ -1,43 +1,49 @@
-## File 0-iam_betty
+#### File 0-iam_betty
 - Create a script that switches the current user to the user betty.
 - You should use exactly 8 characters for your command (+1 character for the new line)
 - You can assume that the user betty will exist when we will run your script
 
-## File 1-who_am_i
+#### File 1-who_am_i
 - Write a script that prints the effective username of the current user.
 
-## File 2-groups
+#### File 2-groups
 - Write a script that prints all the groups the current user is part of.
 
-## File 3-new_owner
+#### File 3-new_owner
 - Write a script that changes the owner of the file hello to the user betty.
 
-## File 4-empty
+#### File 4-empty
 - Write a script that creates an empty file called hello.
 
-## File 5-execute
+#### File 5-execute
 - Write a script that adds execute permission to the owner of the file hello.
 
 - The file hello will be in the working directory
 
-## File 6-multiple_permissions
+#### File 6-multiple_permissions
 - Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 
 - The file hello will be in the working directory
 
-## File 7-everybody
+#### File 7-everybody
 - Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 
 - The file hello will be in the working directory
 - You are not allowed to use commas for this script
 
-## File 8-James_Bond
+#### File 8-James_Bond
 Write a script that sets the permission to the file hello as follows:
 
 - Owner: no permission at all
 - Group: no permission at all
 - Other users: all the permissions
 
-## File 9-John_Doe
+#### File 9-John_Doe
 - Write a script that sets the mode of the file hello to this:
+
 `-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello`
+
+#### File 10-mirror_permissions
+- Write a script that sets the mode of the file `hello` the same as `olleh’s` mode.
+- The file `hello` will be in the working directory
+- The file `olleh` will be in the working directory
