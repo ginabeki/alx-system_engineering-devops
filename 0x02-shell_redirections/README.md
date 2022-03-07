@@ -76,3 +76,6 @@ Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 
 #### File 19-AZ
 Replace all characters A and c from input to Z and e respectively.
+
+#### File 20-hiago
+Create a script that removes all letters c and C from input.
