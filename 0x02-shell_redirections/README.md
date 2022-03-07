@@ -6,3 +6,6 @@ I- Write a script that displays a confused smiley "(Ôo)'.
 
 #### File 3-twofiles
 - Display the content of /etc/passwd and /etc/hosts
+
+#### File 4-lastlines
+- Display the last 10 lines of /etc/passwd
