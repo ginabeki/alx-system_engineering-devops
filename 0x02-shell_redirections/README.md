@@ -68,3 +68,10 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 
 - include capital letters as well
+
+#### File 18-letteronly
+Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+- include capital letters as well
+
+#### File 
