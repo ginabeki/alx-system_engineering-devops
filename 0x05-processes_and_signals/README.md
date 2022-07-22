@@ -1,10 +1,11 @@
-# 0x05. Processes and signals
+# Loops, Conditions, and Parsing
 
-## Materaisl
+## Resources
 - [Linux PID](http://www.linfo.org/pid.html)
-- [Linux Processes](https://www.thegeekstuff.com/2012/03/linux-processes-environment/)
+- [Linux process](https://www.thegeekstuff.com/2012/03/linux-processes-environment/)
 - [Linux signal](https://www.thegeekstuff.com/2012/03/linux-signals-fundamentals/)
 
+## Learning Objectives
 ### General
 - What is a PID
 - What is a process
